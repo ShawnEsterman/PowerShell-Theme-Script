@@ -4,5 +4,5 @@ This script was written to set the PowerShell ISE theme at login. When I customi
 Tried to document it well so you could use my method and change the color scheme to something of your choice. I choose the [Inconsolata-DZ](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/) font and choose colors from [FlatUiColors.co](http://flatuicolors.co/).
 
 ## Screenshots
-![Screenshot01.png](https://github.com/shwnstrmn/PowerShell-Theme-Script/raw/Master/Screenshot01.png)
-![Screenshot02.png](https://github.com/shwnstrmn/PowerShell-Theme-Script/raw/Master/Screenshot02.png)
+![Console and Editor](https://github.com/shwnstrmn/PowerShell-Theme-Script/blob/master/Screenshot01.png?raw=true "Console and Editor")
+![Output Text](https://github.com/shwnstrmn/PowerShell-Theme-Script/blob/master/Screenshot02.png?raw=true "Output Text")
